@@ -23,6 +23,7 @@
   "license": "MIT",
   "homepage": "https://github.com/leroy-merlin-br/boreal",
   "dependencies": {
-    "chalk": "^0.5.1"
+    "chalk": "~0.5.1",
+    "find": "~0.1.7"
   }
 }
