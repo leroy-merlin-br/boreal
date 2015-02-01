@@ -1,0 +1,28 @@
+{
+  "name": "boreal",
+  "version": "0.0.1",
+  "description": "CSS Coverage for Pattern Libraries",
+  "main": "lib/boreal",
+  "bin": {
+    "grunt": "bin/boreal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leroy-merlin-br/boreal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leroy-merlin-br/boreal/issues"
+  },
+  "keywords": [
+    "CSS",
+    "Coverage",
+    "Pattern",
+    "Library"
+  ],
+  "author": "Zizaco <zizaco@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/leroy-merlin-br/boreal",
+  "dependencies": {
+    "chalk": "^0.5.1"
+  }
+}

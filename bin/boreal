@@ -1,0 +1,6 @@
+#! /usr/bin/env node
+
+var Boreal = require('../lib/boreal');
+
+// Initializes the application
+var boreal = new Boreal(process.argv);
