@@ -1,6 +1,6 @@
 {
   "name": "boreal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CSS Coverage for Pattern Libraries",
   "main": "lib/boreal",
   "bin": {
@@ -27,10 +27,10 @@
     "find": "~0.1.7"
   },
   "devDependencies": {
-    "gulp" : "~3.8.0",
-    "mocha" : "~2.1.0",
-    "gulp-mocha" : "~2.0.0",
-    "expect" : "~1.4.0",
+    "gulp": "~3.8.0",
+    "mocha": "~2.1.0",
+    "gulp-mocha": "~2.0.0",
+    "expect": "~1.4.0",
     "gulp-istanbul": "0.6.0"
   }
 }
