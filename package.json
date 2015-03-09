@@ -25,5 +25,12 @@
   "dependencies": {
     "chalk": "~0.5.1",
     "find": "~0.1.7"
+  },
+  "devDependencies": {
+    "gulp" : "~3.8.0",
+    "mocha" : "~2.1.0",
+    "gulp-mocha" : "~2.0.0",
+    "expect" : "~1.4.0",
+    "gulp-istanbul": "0.6.0"
   }
 }
