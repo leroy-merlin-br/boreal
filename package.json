@@ -1,6 +1,6 @@
 {
   "name": "boreal",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CSS Coverage for Pattern Libraries",
   "main": "lib/boreal",
   "bin": {
