@@ -10,7 +10,7 @@ _boreal_ is a code coverage tool to be used in pattern libraries, styleguides, t
 
 _**The main idea behind boreal is to provide a sort of "automated testing" to stylesheets.** boreal works by analysing your set of stylesheets and a set of markup documentation that explains how to use your stylesheets. The exit will be "green" if everything in the stylesheets is demonstrated in the documentation, otherwise boreal will exit as "red", displaying which classes are missing in your docs._
 
-With _boreal_ you can easly add your stylesheets into continous integration. Using the documentation as "tests" against the stylesheets of the pattern library.
+With _boreal_ you can easily add your stylesheets into continuous integration. Using the documentation as "tests" against the stylesheets of the pattern library.
 
 ## Usage
 
