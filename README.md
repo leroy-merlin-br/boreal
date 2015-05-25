@@ -20,7 +20,7 @@ Install _boreal_ (globally if you like)
 $ npm install boreal -g
 ```
 
-Then you can simply call the `coverage` command of _boreal_ pointing to te directory if your stylesheets and of your documentation markup: `coverage <stylesheet> <markup>`
+Then you can simply call the `coverage` command of _boreal_ pointing to the directory if your stylesheets and of your documentation markup: `coverage <stylesheet> <markup>`
 
 ```
 $ boreal coverage path/to/stylesheets path/to/docs
